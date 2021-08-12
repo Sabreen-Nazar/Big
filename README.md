@@ -1,3 +1,4 @@
+[BigMartSales_Readme.docx](https://github.com/Sabreen-Nazar/Big/files/6976260/BigMartSales_Readme.docx)
  
 **Problem Statement**
 BigMart have created sales data for 10 stores in different cities. Also, The details of each items are described. The aim is to build a predictive model and find out the sales of each product at a particular store.
