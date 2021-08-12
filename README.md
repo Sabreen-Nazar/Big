@@ -1,2 +1,2 @@
-# Big
-This project contains EDA(Exploratory Data Analysis), Data Cleaning, Feature Engineering, Model Building and Prediction
+[BigMartSales_Readme.docx](https://github.com/Sabreen-Nazar/Big/files/6976134/BigMartSales_Readme.docx)
+
